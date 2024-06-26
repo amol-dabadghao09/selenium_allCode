@@ -30,6 +30,9 @@ public class ActionsClassSendKeys {
 	// 	OR
 		System.out.println(driver.getTitle());
 		
+		System.out.println(driver.getTitle());
+		
+		
 	}
 
 }
