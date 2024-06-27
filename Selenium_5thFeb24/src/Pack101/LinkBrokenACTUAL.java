@@ -11,7 +11,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class imageBrokenACTUAL {
+public class LinkBrokenACTUAL {
 	
 	public static void verifyLinks(String url) throws IOException
 	{
